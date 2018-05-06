@@ -1,0 +1,15 @@
+{
+  "title": "NextGenUpdate ShoutBox",
+  "name": "ngusb",
+  "version": "0.0.1b4",
+  "description": "NextGenUpdate ShoutBox FF Add-On",
+  "main": "index.js",
+  "author": "Laim McKenzie, MEGAFUCKINGLOLZ LTD",
+  "engines": {
+    "FireFox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
